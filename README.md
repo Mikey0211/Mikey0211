@@ -81,8 +81,4 @@ Completed a hands-on, real-world **Information Technology course** covering:
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikey0211&show_icons=true&theme=tokyonight)  
-
----
 
